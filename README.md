@@ -1,8 +1,8 @@
 # Server-Suite
-# Powershell script that helps you to fix comman issue and insights in windows server (Remotely without RDP)
 
-## run the script and choose the service category:
+## Powershell script that helps you to fix comman issue and insights in windows server (Remotely without RDP)
 
+## Run the script and choose the service category:
 1. Restart RDP Services (Remote Desktop) 
 2. SQL Services includes Analysis Services, SQL Agent etc (Start, Stop, Restart)
 3. Download file from online  
