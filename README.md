@@ -1,5 +1,5 @@
 # Server-Suite
-# Powershell script that helps you to fix comman issue in windows server
+# Powershell script that helps you to fix comman issue and insights in windows server
 
 ## run the script and choose the service category:
 
