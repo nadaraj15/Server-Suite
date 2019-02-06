@@ -1,6 +1,6 @@
 # Server-Suite
 
-## Powershell script that helps you to fix comman issue and insights in windows server (Remotely without RDP)
+## Powershell script that helps you to fix common issue and insights in windows server (Remotely without RDP)
 
 ## Run the script and choose the service category:
 1. Restart RDP Services (Remote Desktop) 
